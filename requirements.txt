@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+streamlit
+gitpython
+python-dotenv
+tiktoken
+pygments
+langchain-core 
+langchain-classic
