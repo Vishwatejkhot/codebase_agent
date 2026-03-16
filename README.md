@@ -1,6 +1,6 @@
 # 🤖 Codebase Q&A Agent
 
-An agentic RAG system that lets you **chat with any GitHub repository** using Groq (llama3-70b) + LangChain + FAISS.
+An agentic RAG system that lets you **chat with any GitHub repository** using Groq model + LangChain + FAISS.
 
 ---
 
