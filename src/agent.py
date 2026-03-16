@@ -122,9 +122,7 @@ def load_existing(repo_name: str) -> tuple[AgentExecutor, str]:
     return agent, repo_name
 
 
-# ---------------------------------------------------------------------------
-# CLI interface
-# ---------------------------------------------------------------------------
+
 def run_cli():
     """Interactive CLI chat loop."""
     print("\n" + "="*60)
